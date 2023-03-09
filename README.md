@@ -9,9 +9,9 @@ YMovie-Electron is a portable wrapped [website](https://ymovie.streamcinema.cz/)
 
 ## Installation
 
-Unzip and launch! (Make it executable on linux)
+Unzip and launch! (Make it executable on linux if needed)
 
-On Mac - unzip and create .dmg from that folder.. idk I dont have a mac XD
+On mac.. drag'n drop folder "YMovie.app" to your applications folder
 
 ## Features
 
