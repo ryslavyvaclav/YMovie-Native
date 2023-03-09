@@ -33,7 +33,7 @@ nativefier --name "YMovie" "https://ymovie.streamcinema.cz/" --internal-urls ".*
 ## Portable - Mac
 
 ```
-nativefier --name "YMoviePortable" "https://ymovie.streamcinema.cz/" --internal-urls ".*" "NATIVEFIER" --single-instance true --portable true --file-download-options true --icon "C:\Users\wyour\Pictures\Saved Pictures\logo-512x512.icns" --background-color #000000 -p mac
+nativefier --name "YMoviePortable" "https://ymovie.streamcinema.cz/" --internal-urls ".*" "NATIVEFIER" --single-instance true --portable true --file-download-options true --icon "C:\Users\x\Pictures\Saved Pictures\logo-512x512.icns" --background-color #000000 -p mac
 ```
 
 
@@ -41,5 +41,5 @@ nativefier --name "YMoviePortable" "https://ymovie.streamcinema.cz/" --internal-
 ## Not portable - Mac
 
 ```
-nativefier --name "YMovie" "https://ymovie.streamcinema.cz/" --internal-urls ".*" "NATIVEFIER" --single-instance true --portable false --file-download-options true --icon "C:\Users\wyour\Pictures\Saved Pictures\logo-512x512.icns" --background-color #000000 -p mac
+nativefier --name "YMovie" "https://ymovie.streamcinema.cz/" --internal-urls ".*" "NATIVEFIER" --single-instance true --portable false --file-download-options true --icon "C:\Users\x\Pictures\Saved Pictures\logo-512x512.icns" --background-color #000000 -p mac
 ```
