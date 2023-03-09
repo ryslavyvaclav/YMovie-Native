@@ -12,3 +12,6 @@ Unzip and launch!
 ## Features
 
 Portable, System tray
+
+## I..
+cant fix problems that are related to [Nativefier](https://github.com/nativefier/nativefier/) project
