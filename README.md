@@ -7,7 +7,7 @@ YMovie-Electron is a portable wrapped [website](https://ymovie.streamcinema.cz/)
 
 ## Installation
 
-Unzip and launch!
+Unzip and launch! (Make it executable on linux)
 
 ## Features
 
