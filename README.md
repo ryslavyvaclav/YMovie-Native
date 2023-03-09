@@ -20,6 +20,7 @@ Portable, System tray
 ## I..
 cant fix problems that are related to [Nativefier](https://github.com/nativefier/nativefier/) project
 
+## IMAGES
 
 ![Snímek obrazovky 2023-03-09 114205](https://user-images.githubusercontent.com/82129251/224001580-786e6b78-fa15-4306-8650-81e1f543c663.png)
 
