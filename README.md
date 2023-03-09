@@ -1,7 +1,7 @@
 # YMovie-Electron
  Electron-wrapped web YMovie
  
- If you will get loading loop bug.. press ALT key! 
+ If you will get loading loop bug.. press ALT key or resize window! :)
 
 ## Introduction
 
