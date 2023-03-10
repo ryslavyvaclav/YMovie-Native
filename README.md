@@ -27,3 +27,6 @@ cant fix problems that are related to [Nativefier](https://github.com/nativefier
 ![Screenshot_2023-03-09_05_34_41](https://user-images.githubusercontent.com/82129251/224001609-b2f6f87d-0c19-4d4e-96e8-f6cb6165e4ca.png)
 
 <img width="1349" alt="Snimka_obrazovky_2023-03-09_o_11 43 52" src="https://user-images.githubusercontent.com/82129251/224001626-1142cd91-fa0e-4527-a5ab-bd160b963761.png">
+
+
+![Screenshot_20230310-171703](https://user-images.githubusercontent.com/82129251/224367570-a30f29c9-0789-4c1a-bf0f-87538d30ce7c.png)
